@@ -22,3 +22,6 @@ print("Index of value 30 in my_list:", index_30)
 
 # Print the updated list
 print("Updated my_list:", my_list)
+
+
+
